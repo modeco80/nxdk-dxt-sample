@@ -1,0 +1,6 @@
+bin/
+obj/
+
+xbdm/libxbdm.lib
+tools/cdxt
+tools/cdxt.exe
